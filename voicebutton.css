@@ -1,4 +1,6 @@
-/*voicebuttonの装飾を作るファイル*/
-p{
-  
-}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
